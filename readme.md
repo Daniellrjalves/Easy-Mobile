@@ -22,7 +22,7 @@ Durante o desenvolvimento, exercitei:
 
 ## 📦 Como visualizar o projeto
 
-Você pode rodar o projeto localmente ou acessar online (se publicado):
+🔗 [Link para o projeto online (GitHub Pages)](https://daniellrjalves.github.io/Easy-Mobile/)
 
 ### Local:
 
